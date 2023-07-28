@@ -44,9 +44,9 @@
 
 * Overall, this project provides a scalable and secure API for music streaming services that allows users to manage their playlists effectively while ensuring the safety of their data.
 >## Application Property
-spring.datasource.url=jdbc:mysql://localhost:3306/musicDb
-spring.datasource.username=root
-spring.datasource.password=srushti
+spring.datasource.url=jdbc:mysql://3.110.119.77:3306/musicDb
+spring.datasource.username=srushti
+spring.datasource.password=12345
 spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.properties.hibernate.show_sql=true
